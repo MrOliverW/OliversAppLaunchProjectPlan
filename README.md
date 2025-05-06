@@ -1,5 +1,7 @@
 # OliversAppLaunchProjectPlan
 
+link to YouTube video: https://youtu.be/VqTtrNtaH14
+
 Overview:
 The Oliver’s App project details the development, deployment, and managing of Oliver’s App – A really cool smartphone app made for entertaining and wholesome conversation. The project aims to create the app, refine it and release it to the public. Our goal is to have 1,000 users and overwhelmingly positive reviews. Our vision is to help create good memories through the use of our app as human connection is incredibly valuable.
 
